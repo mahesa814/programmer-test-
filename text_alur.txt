@@ -1,0 +1,23 @@
+jadi alur nya pada menu nasabah
+bisa ada function create da list nasabah
+
+// Menu Transaksi
+Create transakaksi
+
+[
+    pilih dulu nasabah siapa yang ada transaksi nya terus pilih tanggal berapa transaksi nya
+    dan deskripsi di buat select ada 4 pilihan itu menuruti yang ada pada list yang contoh,.
+    PIlih Debit Card itu C / d
+    Terus isi kan amount yang dikeluarkan
+]
+ada function create transaksi dan daftar transaksi
+
+// Menu Point
+ada logika yang kalo beli pulsa  atau beli listrik nambah point nya itu per transaksi nasabah
+itu ada controller nya di TransactionController nama function getPoints
+
+// Report
+dan di menu report ada filter masukkan id nasabah dan start-date - end-date
+buat menampilkan data sesuai
+start-date - end-date
+default nya awal bulan tanggal hari ini
